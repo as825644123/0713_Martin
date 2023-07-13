@@ -12,3 +12,6 @@ git push -u origin main
 git add README.md
 git commit -m "Test"
 git push
+
+檢查資料夾內有無"尚未上傳至staging area"的檔案：
+git status
