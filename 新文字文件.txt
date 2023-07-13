@@ -1,0 +1,14 @@
+初始化：
+echo "# 0713_Martin" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/as825644123/0713_Martin.git
+git push -u origin main
+
+
+上傳資料：
+git add README.md
+git commit -m "Test"
+git push
